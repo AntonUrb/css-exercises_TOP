@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(219, 125, 180);
+    font-family: Verdana, sans-serif; 
+}
+
+#nmb2 {
+    color: rgb(20, 20, 202);
+    font-size: 36px;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#nmb4 {
+    background-color: rgb(154, 233, 173);
+    font-weight: bold;
+}
